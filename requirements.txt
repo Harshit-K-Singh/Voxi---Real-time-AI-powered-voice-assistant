@@ -1,0 +1,9 @@
+webrtcvad-wheels
+pyaudio
+torch
+openai-whisper
+numpy
+transformers
+ollama
+TTS
+simpleaudio
